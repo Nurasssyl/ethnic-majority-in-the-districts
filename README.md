@@ -1,3 +1,3 @@
 # ethnic-majority-in-the-districts
 
-![](ethnic majority in the districts.jpeg)
+![](ethnic%20majority%20in%20the%20districts.jpeg)
